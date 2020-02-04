@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "To Code or Not to Code"
-date:       2020-02-03 22:32:59 +0000
+date:       2020-02-03 17:32:59 -0500
 permalink:  to_code_or_not_to_code
 ---
 
